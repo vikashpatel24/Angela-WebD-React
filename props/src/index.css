@@ -1,0 +1,59 @@
+body {
+  margin: 10px auto;
+  background-color: #dfe6e9;
+  font-family: "Ubuntu", sans-serif;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.heading {
+  text-align: center;
+  width: 100%;
+  padding-top: 10px;
+  color: black;
+  margin-bottom: 50px;
+}
+
+.card {
+  margin: 0 auto;
+  height: 230px;
+  width: 400px;
+  background-color: #81ecec;
+  justify-content: center;
+  display: block;
+  align-items: center;
+  border-radius: 25px;
+  padding-bottom: 10px;
+  border-top-right-radius: 10%;
+  margin-bottom: 50px;
+  box-shadow: 0 2px 5px #ccc;
+}
+.name {
+  background-color: #00cec9;
+  padding: 40px 20px 15px;
+  border-radius: 25px 25px 0 0;
+  display: flex;
+  color: #2d3436;
+  font-size: 2em;
+  font-weight: bold;
+}
+img {
+  height: 120px;
+  width: 120px;
+  border: 0.4rem solid white;
+  border-radius: 50%;
+  margin-top: -65px;
+  margin-left: 245px;
+}
+.tel {
+  margin-top: -3px;
+  color: #1a7e76;
+  margin-top: -20px;
+  padding-inline-start: 15px;
+  padding-bottom: 20px;
+}
+.email {
+  padding-inline-start: 15px;
+  color: #1a7e76;
+}
